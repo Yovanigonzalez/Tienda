@@ -1,0 +1,400 @@
+[12-Aug-2023 03:26:27 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[12-Aug-2023 08:03:06 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 01:37:56 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 01:37:57 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 01:37:59 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 01:37:59 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 02:00:28 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 02:00:47 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 03:04:33 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 03:04:33 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 03:04:34 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 03:04:34 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 03:12:46 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 03:13:00 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 03:23:25 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 03:23:44 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 03:29:46 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 03:29:47 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 03:29:50 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/forgot_password.php:8
+Stack trace:
+#0 /home/perfumco/public_html/forgot_password.php(8): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/forgot_password.php on line 8
+[13-Aug-2023 05:37:42 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 05:37:42 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 05:37:43 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 05:37:43 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 05:52:04 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 05:52:09 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 05:56:02 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 05:56:05 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 07:32:56 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 07:32:56 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 07:32:56 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 07:32:56 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 07:48:15 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 07:48:18 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 07:53:33 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 07:53:48 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 09:51:48 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 09:51:48 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 09:51:48 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 09:51:48 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 09:56:18 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 09:56:19 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 11:46:37 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/index.php:469
+Stack trace:
+#0 /home/perfumco/public_html/index.php(469): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/index.php on line 469
+[13-Aug-2023 11:47:10 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/login_process.php:8
+Stack trace:
+#0 /home/perfumco/public_html/login_process.php(8): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/login_process.php on line 8
+[13-Aug-2023 12:29:19 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 12:29:19 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 12:29:22 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 12:29:22 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 12:37:32 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 12:37:38 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 12:40:27 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 12:40:34 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 14:51:54 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 14:51:54 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 14:51:55 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 14:51:55 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 15:01:16 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 15:02:02 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 15:08:36 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 15:08:43 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop-single.php:136
+Stack trace:
+#0 /home/perfumco/public_html/shop-single.php(136): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop-single.php on line 136
+[13-Aug-2023 21:17:02 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 21:41:21 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 21:41:25 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 21:41:32 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 21:41:35 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 21:41:57 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/login_process.php:8
+Stack trace:
+#0 /home/perfumco/public_html/login_process.php(8): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/login_process.php on line 8
+[13-Aug-2023 21:49:21 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 21:50:06 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/index.php:469
+Stack trace:
+#0 /home/perfumco/public_html/index.php(469): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/index.php on line 469
+[13-Aug-2023 21:53:52 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/shop.php:213
+Stack trace:
+#0 /home/perfumco/public_html/shop.php(213): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/shop.php on line 213
+[13-Aug-2023 23:14:18 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/index.php:469
+Stack trace:
+#0 /home/perfumco/public_html/index.php(469): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/index.php on line 469
+[13-Aug-2023 23:14:30 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/login_process.php:8
+Stack trace:
+#0 /home/perfumco/public_html/login_process.php(8): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/login_process.php on line 8
+[13-Aug-2023 23:14:31 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/login_process.php:8
+Stack trace:
+#0 /home/perfumco/public_html/login_process.php(8): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/login_process.php on line 8
+[13-Aug-2023 23:22:40 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'perfumco_perfum'@'localhost' to database 'perfumco_perfum' in /home/perfumco/public_html/index.php:469
+Stack trace:
+#0 /home/perfumco/public_html/index.php(469): mysqli->__construct('localhost', 'perfumco_perfum', 'perfumeriaperfu...', 'perfumco_perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/index.php on line 469
+[14-Aug-2023 04:06:59 America/Mexico_City] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/perfumco/public_html/contact.php:31
+Stack trace:
+#0 /home/perfumco/public_html/contact.php(31): getimagesize('')
+#1 {main}
+  thrown in /home/perfumco/public_html/contact.php on line 31
+[14-Aug-2023 04:33:24 America/Mexico_City] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/perfumco/public_html/contact.php:31
+Stack trace:
+#0 /home/perfumco/public_html/contact.php(31): getimagesize('')
+#1 {main}
+  thrown in /home/perfumco/public_html/contact.php on line 31
+[14-Aug-2023 04:52:15 America/Mexico_City] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/perfumco/public_html/contact.php:31
+Stack trace:
+#0 /home/perfumco/public_html/contact.php(31): getimagesize('')
+#1 {main}
+  thrown in /home/perfumco/public_html/contact.php on line 31
+[15-Aug-2023 07:04:27 America/Mexico_City] PHP Warning:  Undefined array key "email_phone" in /home/perfumco/public_html/forgot_password.php on line 16
+[15-Aug-2023 16:51:27 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/login.php on line 263
+[15-Aug-2023 18:36:11 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/index.php on line 458
+[16-Aug-2023 08:27:36 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/index.php on line 458
+[16-Aug-2023 10:21:07 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/index.php on line 458
+[17-Aug-2023 13:48:17 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/index.php on line 458
+[17-Aug-2023 18:53:54 America/Mexico_City] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/perfumco/public_html/contact.php:31
+Stack trace:
+#0 /home/perfumco/public_html/contact.php(31): getimagesize('')
+#1 {main}
+  thrown in /home/perfumco/public_html/contact.php on line 31
+[21-Aug-2023 00:04:39 America/Mexico_City] PHP Warning:  Undefined array key "image" in /home/perfumco/public_html/contact.php on line 25
+[21-Aug-2023 00:04:39 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/contact.php on line 25
+[21-Aug-2023 00:04:39 America/Mexico_City] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/perfumco/public_html/contact.php on line 25
+[21-Aug-2023 00:04:39 America/Mexico_City] PHP Warning:  Undefined array key "image" in /home/perfumco/public_html/contact.php on line 31
+[21-Aug-2023 00:04:39 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/contact.php on line 31
+[21-Aug-2023 00:04:39 America/Mexico_City] PHP Deprecated:  getimagesize(): Passing null to parameter #1 ($filename) of type string is deprecated in /home/perfumco/public_html/contact.php on line 31
+[21-Aug-2023 00:04:39 America/Mexico_City] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/perfumco/public_html/contact.php:31
+Stack trace:
+#0 /home/perfumco/public_html/contact.php(31): getimagesize('')
+#1 {main}
+  thrown in /home/perfumco/public_html/contact.php on line 31
+[27-Aug-2023 15:33:28 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/login.php on line 268
+[07-Sep-2023 22:05:40 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/login.php on line 268
+[09-Sep-2023 14:09:29 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/login.php on line 268
