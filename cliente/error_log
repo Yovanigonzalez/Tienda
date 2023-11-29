@@ -1,0 +1,217 @@
+[13-Aug-2023 23:47:07 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[15-Aug-2023 16:13:50 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perfumco/public_html/cliente/procesar_compra.php:1) in /home/perfumco/public_html/cliente/procesar_compra.php on line 54
+[15-Aug-2023 16:16:34 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/perfumco/public_html/cliente/procesar_compra.php:1) in /home/perfumco/public_html/cliente/procesar_compra.php on line 54
+[15-Aug-2023 16:23:43 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/cliente/procesar_compra.php:9
+Stack trace:
+#0 /home/perfumco/public_html/cliente/procesar_compra.php(9): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/procesar_compra.php on line 9
+[15-Aug-2023 16:25:31 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/cliente/procesar_compra.php:9
+Stack trace:
+#0 /home/perfumco/public_html/cliente/procesar_compra.php(9): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/procesar_compra.php on line 9
+[15-Aug-2023 23:21:19 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/cliente/shop-single.php on line 443
+[15-Aug-2023 23:24:56 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/cliente/shop-single.php on line 443
+[15-Aug-2023 23:34:54 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/cliente/shop-single.php on line 443
+[17-Aug-2023 13:45:36 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/cliente/shop-single.php on line 443
+[17-Aug-2023 13:46:53 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[17-Aug-2023 13:53:47 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[17-Aug-2023 15:56:27 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[17-Aug-2023 17:03:18 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/cliente/shop-single.php on line 443
+[18-Aug-2023 17:17:41 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/cliente/shop-single.php on line 443
+[18-Aug-2023 17:17:59 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/cliente/procesar_compra.php:9
+Stack trace:
+#0 /home/perfumco/public_html/cliente/procesar_compra.php(9): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/procesar_compra.php on line 9
+[18-Aug-2023 17:18:07 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/cliente/procesar_compra.php:9
+Stack trace:
+#0 /home/perfumco/public_html/cliente/procesar_compra.php(9): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/procesar_compra.php on line 9
+[21-Aug-2023 09:20:56 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[21-Aug-2023 10:02:32 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/perfumco/public_html/cliente/shop.php on line 141
+[21-Aug-2023 10:23:54 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[21-Aug-2023 10:51:14 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[21-Aug-2023 10:57:54 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[21-Aug-2023 15:03:06 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[22-Aug-2023 15:59:50 America/Mexico_City] PHP Warning:  Undefined array key "nombre_usuario" in /home/perfumco/public_html/cliente/carrito.php on line 258
+[22-Aug-2023 15:59:50 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'nombre_usuario' in 'where clause' in /home/perfumco/public_html/cliente/carrito.php:261
+Stack trace:
+#0 /home/perfumco/public_html/cliente/carrito.php(261): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/carrito.php on line 261
+[22-Aug-2023 16:00:27 America/Mexico_City] PHP Warning:  Undefined array key "nombre_usuario" in /home/perfumco/public_html/cliente/carrito.php on line 258
+[22-Aug-2023 16:00:27 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'nombre_usuario' in 'where clause' in /home/perfumco/public_html/cliente/carrito.php:261
+Stack trace:
+#0 /home/perfumco/public_html/cliente/carrito.php(261): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/carrito.php on line 261
+[22-Aug-2023 16:00:31 America/Mexico_City] PHP Warning:  Undefined array key "nombre_usuario" in /home/perfumco/public_html/cliente/carrito.php on line 258
+[22-Aug-2023 16:00:31 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'nombre_usuario' in 'where clause' in /home/perfumco/public_html/cliente/carrito.php:261
+Stack trace:
+#0 /home/perfumco/public_html/cliente/carrito.php(261): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/carrito.php on line 261
+[22-Aug-2023 16:12:48 America/Mexico_City] PHP Warning:  Undefined array key "nombre_usuario" in /home/perfumco/public_html/cliente/carrito.php on line 258
+[22-Aug-2023 16:12:48 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'nombre_usuario' in 'where clause' in /home/perfumco/public_html/cliente/carrito.php:261
+Stack trace:
+#0 /home/perfumco/public_html/cliente/carrito.php(261): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/carrito.php on line 261
+[22-Aug-2023 16:13:45 America/Mexico_City] PHP Warning:  Undefined array key "nombre_usuario" in /home/perfumco/public_html/cliente/carrito.php on line 258
+[22-Aug-2023 16:13:45 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'nombre_usuario' in 'where clause' in /home/perfumco/public_html/cliente/carrito.php:261
+Stack trace:
+#0 /home/perfumco/public_html/cliente/carrito.php(261): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/carrito.php on line 261
+[22-Aug-2023 16:14:12 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'nombre_usuario' in 'where clause' in /home/perfumco/public_html/cliente/carrito.php:261
+Stack trace:
+#0 /home/perfumco/public_html/cliente/carrito.php(261): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/carrito.php on line 261
+[23-Aug-2023 10:47:05 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/cliente/carrito.php:9
+Stack trace:
+#0 /home/perfumco/public_html/cliente/carrito.php(9): mysqli_connect('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/carrito.php on line 9
+[23-Aug-2023 10:47:45 America/Mexico_City] PHP Warning:  Undefined variable $db_host in /home/perfumco/public_html/cliente/carrito.php on line 9
+[23-Aug-2023 10:47:45 America/Mexico_City] PHP Warning:  Undefined variable $db_user in /home/perfumco/public_html/cliente/carrito.php on line 9
+[23-Aug-2023 10:47:45 America/Mexico_City] PHP Warning:  Undefined variable $db_pass in /home/perfumco/public_html/cliente/carrito.php on line 9
+[23-Aug-2023 10:47:45 America/Mexico_City] PHP Warning:  Undefined variable $db_name in /home/perfumco/public_html/cliente/carrito.php on line 9
+[23-Aug-2023 10:47:45 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in /home/perfumco/public_html/cliente/carrito.php:9
+Stack trace:
+#0 /home/perfumco/public_html/cliente/carrito.php(9): mysqli_connect(NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/carrito.php on line 9
+[23-Aug-2023 10:47:47 America/Mexico_City] PHP Warning:  Undefined variable $db_host in /home/perfumco/public_html/cliente/carrito.php on line 9
+[23-Aug-2023 10:47:47 America/Mexico_City] PHP Warning:  Undefined variable $db_user in /home/perfumco/public_html/cliente/carrito.php on line 9
+[23-Aug-2023 10:47:47 America/Mexico_City] PHP Warning:  Undefined variable $db_pass in /home/perfumco/public_html/cliente/carrito.php on line 9
+[23-Aug-2023 10:47:47 America/Mexico_City] PHP Warning:  Undefined variable $db_name in /home/perfumco/public_html/cliente/carrito.php on line 9
+[23-Aug-2023 10:47:47 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in /home/perfumco/public_html/cliente/carrito.php:9
+Stack trace:
+#0 /home/perfumco/public_html/cliente/carrito.php(9): mysqli_connect(NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/carrito.php on line 9
+[23-Aug-2023 10:52:32 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/cliente/shop-single.php on line 461
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $row in /home/perfumco/public_html/cliente/carrito.php on line 218
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/cliente/carrito.php on line 218
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $row in /home/perfumco/public_html/cliente/carrito.php on line 218
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/cliente/carrito.php on line 218
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $success_message in /home/perfumco/public_html/cliente/carrito.php on line 224
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $row in /home/perfumco/public_html/cliente/carrito.php on line 225
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/cliente/carrito.php on line 225
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $row in /home/perfumco/public_html/cliente/carrito.php on line 226
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/cliente/carrito.php on line 226
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $row in /home/perfumco/public_html/cliente/carrito.php on line 227
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/cliente/carrito.php on line 227
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $row in /home/perfumco/public_html/cliente/carrito.php on line 228
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/cliente/carrito.php on line 228
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $row in /home/perfumco/public_html/cliente/carrito.php on line 229
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/cliente/carrito.php on line 229
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $row in /home/perfumco/public_html/cliente/carrito.php on line 230
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/cliente/carrito.php on line 230
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $row in /home/perfumco/public_html/cliente/carrito.php on line 232
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/cliente/carrito.php on line 232
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $row in /home/perfumco/public_html/cliente/carrito.php on line 252
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/cliente/carrito.php on line 252
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $quantity in /home/perfumco/public_html/cliente/carrito.php on line 252
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $row in /home/perfumco/public_html/cliente/carrito.php on line 258
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/cliente/carrito.php on line 258
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $quantity in /home/perfumco/public_html/cliente/carrito.php on line 258
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $row in /home/perfumco/public_html/cliente/carrito.php on line 297
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/cliente/carrito.php on line 297
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $row in /home/perfumco/public_html/cliente/carrito.php on line 301
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/cliente/carrito.php on line 301
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $row in /home/perfumco/public_html/cliente/carrito.php on line 305
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/cliente/carrito.php on line 305
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $quantity in /home/perfumco/public_html/cliente/carrito.php on line 305
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $row in /home/perfumco/public_html/cliente/carrito.php on line 307
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/cliente/carrito.php on line 307
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $row in /home/perfumco/public_html/cliente/carrito.php on line 342
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/cliente/carrito.php on line 342
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Undefined variable $row in /home/perfumco/public_html/cliente/carrito.php on line 361
+[23-Aug-2023 10:54:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home/perfumco/public_html/cliente/carrito.php on line 361
+[23-Aug-2023 10:55:31 America/Mexico_City] PHP Warning:  Undefined variable $db_host in /home/perfumco/public_html/cliente/carrito.php on line 8
+[23-Aug-2023 10:55:31 America/Mexico_City] PHP Warning:  Undefined variable $db_user in /home/perfumco/public_html/cliente/carrito.php on line 8
+[23-Aug-2023 10:55:31 America/Mexico_City] PHP Warning:  Undefined variable $db_pass in /home/perfumco/public_html/cliente/carrito.php on line 8
+[23-Aug-2023 10:55:31 America/Mexico_City] PHP Warning:  Undefined variable $db_name in /home/perfumco/public_html/cliente/carrito.php on line 8
+[23-Aug-2023 10:55:31 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in /home/perfumco/public_html/cliente/carrito.php:8
+Stack trace:
+#0 /home/perfumco/public_html/cliente/carrito.php(8): mysqli_connect(NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/carrito.php on line 8
+[23-Aug-2023 10:56:42 America/Mexico_City] PHP Warning:  Undefined variable $db_host in /home/perfumco/public_html/cliente/carrito.php on line 8
+[23-Aug-2023 10:56:42 America/Mexico_City] PHP Warning:  Undefined variable $db_user in /home/perfumco/public_html/cliente/carrito.php on line 8
+[23-Aug-2023 10:56:42 America/Mexico_City] PHP Warning:  Undefined variable $db_pass in /home/perfumco/public_html/cliente/carrito.php on line 8
+[23-Aug-2023 10:56:42 America/Mexico_City] PHP Warning:  Undefined variable $db_name in /home/perfumco/public_html/cliente/carrito.php on line 8
+[23-Aug-2023 10:56:42 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in /home/perfumco/public_html/cliente/carrito.php:8
+Stack trace:
+#0 /home/perfumco/public_html/cliente/carrito.php(8): mysqli_connect(NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/carrito.php on line 8
+[23-Aug-2023 10:59:44 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[23-Aug-2023 11:01:44 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/cliente/shop-single.php on line 463
+[23-Aug-2023 11:03:15 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[23-Aug-2023 11:07:28 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[23-Aug-2023 12:16:37 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/cliente/shop-single.php on line 463
+[23-Aug-2023 12:16:47 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/cliente/procesar_compra.php:9
+Stack trace:
+#0 /home/perfumco/public_html/cliente/procesar_compra.php(9): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/procesar_compra.php on line 9
+[23-Aug-2023 12:17:04 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/cliente/procesar_compra.php:9
+Stack trace:
+#0 /home/perfumco/public_html/cliente/procesar_compra.php(9): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/procesar_compra.php on line 9
+[23-Aug-2023 12:18:28 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/cliente/procesar_compra.php:9
+Stack trace:
+#0 /home/perfumco/public_html/cliente/procesar_compra.php(9): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/procesar_compra.php on line 9
+[23-Aug-2023 21:39:35 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/cliente/shop-single.php on line 463
+[23-Aug-2023 21:39:43 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/cliente/procesar_compra.php:9
+Stack trace:
+#0 /home/perfumco/public_html/cliente/procesar_compra.php(9): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/procesar_compra.php on line 9
+[23-Aug-2023 22:15:18 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/cliente/procesar_compra.php:9
+Stack trace:
+#0 /home/perfumco/public_html/cliente/procesar_compra.php(9): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/procesar_compra.php on line 9
+[23-Aug-2023 22:46:23 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/perfumco/public_html/cliente/procesar_compra.php:9
+Stack trace:
+#0 /home/perfumco/public_html/cliente/procesar_compra.php(9): mysqli->__construct('localhost', 'root', '', 'perfum')
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/procesar_compra.php on line 9
+[23-Aug-2023 22:52:09 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[24-Aug-2023 00:18:42 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[24-Aug-2023 00:23:32 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[24-Aug-2023 13:50:32 America/Mexico_City] PHP Warning:  Undefined variable $result in /home/perfumco/public_html/cliente/carrito.php on line 349
+[24-Aug-2023 13:50:32 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, null given in /home/perfumco/public_html/cliente/carrito.php:349
+Stack trace:
+#0 /home/perfumco/public_html/cliente/carrito.php(349): mysqli_fetch_assoc(NULL)
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/carrito.php on line 349
+[24-Aug-2023 13:51:42 America/Mexico_City] PHP Warning:  Undefined variable $result in /home/perfumco/public_html/cliente/carrito.php on line 349
+[24-Aug-2023 13:51:42 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, null given in /home/perfumco/public_html/cliente/carrito.php:349
+Stack trace:
+#0 /home/perfumco/public_html/cliente/carrito.php(349): mysqli_fetch_assoc(NULL)
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/carrito.php on line 349
+[24-Aug-2023 13:54:06 America/Mexico_City] PHP Warning:  Undefined variable $result in /home/perfumco/public_html/cliente/carrito.php on line 354
+[24-Aug-2023 13:54:06 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, null given in /home/perfumco/public_html/cliente/carrito.php:354
+Stack trace:
+#0 /home/perfumco/public_html/cliente/carrito.php(354): mysqli_fetch_assoc(NULL)
+#1 {main}
+  thrown in /home/perfumco/public_html/cliente/carrito.php on line 354
+[24-Aug-2023 13:58:12 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[24-Aug-2023 14:06:59 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[27-Aug-2023 15:35:30 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/cliente/shop-single.php on line 468
+[27-Aug-2023 15:36:23 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[27-Aug-2023 17:48:14 America/Mexico_City] PHP Warning:  Undefined array key "user" in /home/perfumco/public_html/cliente/logout.php on line 3
+[06-Sep-2023 11:39:59 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/cliente/shop-single.php on line 468
+[19-Sep-2023 11:15:02 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home/perfumco/public_html/cliente/shop-single.php on line 468

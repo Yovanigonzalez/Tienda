@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animación en Valor de Input Number</title>
+    <style>
+        /* Estilo para el contenedor del input */
+        .input-container {
+            position: relative;
+            width: 100px;
+            overflow: hidden;
+        }
+
+        /* Estilo para el input */
+        input[type="number"] {
+            width: 100%;
+            text-align: center;
+            font-size: 16px;
+            position: relative;
+            top: 100%; /* Mover el input hacia abajo para la animación */
+            transition: top 0.3s ease; /* Transición suave para el cambio de posición */
+        }
+
+        /* Estilo para el input cuando está enfocado */
+        input[type="number"]:focus {
+            top: 0; /* Mover el input hacia arriba cuando está enfocado */
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Contenedor del input para la animación -->
+    <div class="input-container">
+        <!-- Input tipo "number" con animación al incrementar/decrementar -->
+        <input type="number" id="miInput" min="1" value="1" oninput="animarValor(this)">
+    </div>
+
+    <script>
+        // Función para animar el cambio en el valor del input
+        function animarValor(input) {
+            var valorActual = input.value;
+            var valorAnterior = input.getAttribute('data-valor-anterior') || 1;
+
+            // Comparar el valor actual con el valor anterior
+            if (parseInt(valorActual) > parseInt(valorAnterior)) {
+                // Incremento: Aplicar una clase para la animación
+                input.parentNode.classList.add('incremento');
+            } else {
+                // Decremento: Aplicar una clase para la animación
+                input.parentNode.classList.add('decremento');
+            }
+
+            // Actualizar el valor anterior
+            input.setAttribute('data-valor-anterior', valorActual);
+
+            // Eliminar la clase de animación después de un tiempo
+            setTimeout(function() {
+                input.parentNode.classList.remove('incremento', 'decremento');
+            }, 300); // Debes ajustar el tiempo para que coincida con la duración de la transición CSS
+        }
+    </script>
+
+</body>
+</html>
